@@ -26,3 +26,9 @@ The goal of the project is to develop a google-like website with some of it's fe
 - **Lucky**. Add an “I’m Feeling Lucky” button to the main Google Search page. Consistent with Google’s own behavior, clicking this link should take users directly to the first Google search result for the query, bypassing the normal results page.
 - **Aesthetics**. The CSS you write should match Google’s own aesthetics as best as possible.
 
+:computer: &nbsp; **View Course [here](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)**
+
+:arrow_forward: &nbsp; **View Live Demo [here](https://youtu.be/VkaCC0kUfLs)**
+
+&nbsp;
+
